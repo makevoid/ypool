@@ -1,5 +1,5 @@
 path = File.expand_path "../", __FILE__
-require "#{path}/ypool/version"
+require "#{path}/lib/ypool/version"
 
 Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY

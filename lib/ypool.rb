@@ -1,4 +1,4 @@
-require_relative 'version'
+require 'ypool/version'
 
 class Ypool
 
